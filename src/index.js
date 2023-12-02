@@ -4,4 +4,11 @@ const chickenRecipe = {
     masala: 4
 }
 
+const chillyChickenRecipe = {
+    ...chickenRecipe,
+    soySauce: 3,
+    masala: 1
+}
+
 console.log(chickenRecipe);
+console.log(chillyChickenRecipe);
