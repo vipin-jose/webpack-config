@@ -1,3 +1,4 @@
+import "./styles/index.scss";
 const chickenRecipe = {
     chicken: 1,
     chilli: 2,
